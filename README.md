@@ -1,16 +1,19 @@
-### Hi there 👋
+![Twitter Serudda](https://user-images.githubusercontent.com/10075532/221669747-2568af7d-e937-470f-87d7-e766993b5485.png)
 
-<!--
-**serudda/serudda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  🚀 Construyendo la comunidad hispana más grande de <a href="https://discord.gg/Qncuxgcgsn">Creadores Independientes</a> 🚀 
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/Indie-Creator-Community" target="_blank">Comunidad</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.youtube.com/@serudda" target="_blank">YouTube (Principal)</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.youtube.com/@seruddatv" target="_blank">YouTube (Secundario)</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://twitch.tv/serudda" target="_blank">Twitch</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://www.twitter.com/serudda" target="_blank">Twitter</a>
+  <br />
+  <hr />
+</div>
