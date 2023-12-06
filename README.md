@@ -1,7 +1,7 @@
 ![Twitter Serudda](https://user-images.githubusercontent.com/10075532/221669747-2568af7d-e937-470f-87d7-e766993b5485.png)
 
 <h3 align="center">
-  🚀 Construyendo la comunidad hispana más grande de <a href="https://discord.gg/Qncuxgcgsn">Creadores Independientes</a> 🚀 
+  🚀 Construyendo la comunidad hispana más grande de <a href="https://indiecreatorshq.com/discord">Creadores Independientes</a> 🚀 
 </h3>
 
 <div align="center">
