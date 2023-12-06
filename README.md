@@ -1,4 +1,4 @@
-![Twitter Serudda](https://user-images.githubusercontent.com/10075532/221669747-2568af7d-e937-470f-87d7-e766993b5485.png)
+![image_22](https://user-images.githubusercontent.com/10075532/227379966-f688681c-ea72-44e3-afb9-357b4c05178d.png)
 
 <h3 align="center">
   🚀 Construyendo la comunidad hispana más grande de <a href="https://indiecreatorshq.com/discord">Creadores Independientes</a> 🚀 
